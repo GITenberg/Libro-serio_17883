@@ -1,0 +1,33 @@
+_repo: Libro-serio_17883
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ghislanzoni, Antonio
+    aliases:
+    - Ghislanzoni, A. (Antonio)
+    - Ghislanzoni, Giuseppe Antonio
+    birthdate: 1824
+    deathdate: 1893
+    gutenberg_agent_id: '7044'
+    url: http://www.gutenberg.org/2009/agents/7044
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Ghislanzoni
+description: ''
+gutenberg_bookshelf: IT Umorismo
+gutenberg_issued: '2006-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17883'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Biography'
+tableOfContents: Angelo Mariani -- Giovanni Pacini -- Gustavo Modena -- Giuseppe Rota
+  -- La Casa di Verdi a Sant'Agata.
+title: Libro serio
+url: http://www.gutenberg.org/ebooks/17883
